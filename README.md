@@ -10,6 +10,9 @@ Currently, two official plugins are available:
 
 ![image](https://github.com/shw2003/swiggyApp/assets/88729714/5a1944d5-d18c-42bc-96fd-edff0290c303)
 
+![Uploading image.png…]()
+
+
 Higher Order components
 
 Lifting State up
