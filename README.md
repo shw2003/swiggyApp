@@ -12,5 +12,7 @@ Currently, two official plugins are available:
 
 Higher Order components
 
-
 Lifting State up
+
+controlled and uncontrolled components
+
