@@ -21,6 +21,8 @@ controlled and uncontrolled components
 
 context
 
+laxy loading
+
 Custom hooks
 
 
