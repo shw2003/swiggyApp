@@ -19,3 +19,8 @@ Lifting State up
 
 controlled and uncontrolled components
 
+context
+
+Custom hooks
+
+
