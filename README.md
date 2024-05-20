@@ -10,7 +10,17 @@ Currently, two official plugins are available:
 
 ![image](https://github.com/shw2003/swiggyApp/assets/88729714/5a1944d5-d18c-42bc-96fd-edff0290c303)
 
-![Uploading image.png…]()
+![image](https://github.com/shw2003/swiggyApp/assets/88729714/9c8af382-9a49-4983-ae41-f022d6369139)
+
+![image](https://github.com/shw2003/swiggyApp/assets/88729714/49f74f4f-7713-4ae9-9570-303582de1337)
+
+![image](https://github.com/shw2003/swiggyApp/assets/88729714/74aa01e3-13da-4dff-ad94-ee0a2f80a3ef)
+
+![image](https://github.com/shw2003/swiggyApp/assets/88729714/4c79c26e-690e-4626-8020-315036f3d8b2)
+
+![image](https://github.com/shw2003/swiggyApp/assets/88729714/ac2b25ed-53b4-4851-9773-431e447b85fa)
+
+
 
 
 1. Higher Order components
