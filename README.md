@@ -13,16 +13,11 @@ Currently, two official plugins are available:
 ![Uploading image.png…]()
 
 
-Higher Order components
-
-Lifting State up
-
-controlled and uncontrolled components
-
-context
-
-laxy loading
-
-Custom hooks
+1. Higher Order components
+2. Lifting State up
+3. controlled and uncontrolled components
+4. context
+5. lazy loading
+6. Custom hooks
 
 
