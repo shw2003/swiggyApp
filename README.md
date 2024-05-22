@@ -30,5 +30,6 @@ Currently, two official plugins are available:
 5. lazy loading
 6. Custom hooks
 7. uncontrolled compo
+8. unit Testing
 
 
